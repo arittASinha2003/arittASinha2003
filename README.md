@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @ArittaSinha
+# 👋 Hi, I'm @Aritt Sinha
 
 🔭 I’m currently studying in GITAM Institute of Technology (GIT)  
 🌱 I’m currently learning B.Tech CSE (Core)  
