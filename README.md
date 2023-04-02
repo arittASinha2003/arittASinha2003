@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&center=true&width=435&lines=2nd+Year+Engineering+Student;Passionate+about+Coding;Interested+in+Aviation" alt="Typing SVG" /></a>
 </p>
 
-🔭 I’m currently studying in GITAM Institute of Technology (GIT)  
-🌱 I’m currently learning B.Tech CSE (Core)  
-📫 Reach me through asinha2@gitam.in  
-📕 Learning C and Python Programming Language  
+- 🔭 I’m currently studying in GITAM Institute of Technology (GIT)  
+- 🌱 I’m currently learning B.Tech CSE (Core)  
+- 📫 Reach me through asinha2@gitam.in  
+- 📕 Learning C and Python Programming Language  
