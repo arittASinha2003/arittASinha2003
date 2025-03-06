@@ -17,8 +17,8 @@
   
 </div>
 
-- 🔭 I’m currently studying in GITAM Institute of Technology (GIT)  
-- 🌱 I’m currently learning B.Tech CSE (Core)  
+- 🔭 I’m currently studying at GITAM Institute of Technology (GIT)  
+- 🌱 I’m currently pursuing B.Tech CSE (Core)  
 - 🎗️ Batch: 2021 - 2025
 - 📫 Reach me through asinha2@gitam.in  
-- 📕 Learning C, Python and Java Programming Language  
+- 📕 Learning Python, Java, and C Programming Language  
