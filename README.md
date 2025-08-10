@@ -5,7 +5,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&color=03F700&center=true&vCenter=true&width=1012&lines=4th+Year+Engineering+Student;Passionate+about+Coding;Interested+in+Aviation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&color=03F700&center=true&vCenter=true&width=1012&lines=Technology+Consultant+at+EY+GDS;Passionate+about+Coding;Interested+in+Aviation)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -15,8 +15,7 @@
   
 </div>
 
-- 🔭 I’m currently studying at GITAM Institute of Technology (GIT)  
-- 🌱 I’m currently pursuing B.Tech CSE (Core)  
-- 🎗️ Batch: 2021 - 2025
-- 📫 Reach me through asinha2@gitam.in  
-- 📕 Learning Python, Java, and C Programming Language  
+- 🏢 Working at EY GDS as a Technology Consultant in BCM  
+- 🎓 Completed my graduation from GITAM University, Visakhapatnam (2021 - 2025 Batch)  
+- 📧 Reach me through asinha2@gitam.in  
+- 🧑‍💻 Proficient in Python, Java, SQL, and Web Development  
